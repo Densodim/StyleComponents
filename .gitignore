@@ -17,6 +17,5 @@ yarn-debug.log*
 yarn-error.log*
 /.idea
 /.vscode
-keyssh
-keyssh.pub
+
 
